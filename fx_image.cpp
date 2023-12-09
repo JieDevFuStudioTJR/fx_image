@@ -48,7 +48,7 @@ void print(char color,char putt){
 
     printf("%c ",putt);
 
-    setcolor(hc,0x0);
+    setcolor(hc,0x7);
 }
 
 void print_all(){
